@@ -20,9 +20,6 @@
       }
   ],
   "require": {
-    "php" : ">=5.3",
-    "endroid/qr-code" : ">=4.0@stable",
-    "phpoffice/phpspreadsheet" : ">=1.0@stable"
   },
   "require-dev": {},
   "autoload": {
