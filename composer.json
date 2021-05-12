@@ -7,7 +7,7 @@
   "license": "MIT",
   "authors": [
       {
-          "name": "Sir Louis",
+          "name": "Ikechukwu Okalia",
           "email": "dev@ikechukwuokalia.com",
           "homepage": "https://sirlouis.io",
           "role": "developer"
@@ -21,7 +21,7 @@
   ],
   "require": {
     "php" : ">=5.3",
-    "endroid/qr-code" : ">=3.0@stable",
+    "endroid/qr-code" : ">=4.0@stable",
     "phpoffice/phpspreadsheet" : ">=1.0@stable"
   },
   "require-dev": {},
